@@ -35,8 +35,8 @@ Predict using the fit model
 Check the error value of the predicted pricing model.
 ## PROGRAM
 ```
-Developed By: Pranave B
-Register No: 212221240040
+Developed By: Naveen Kumar
+Register No: 212221240032
 ```
 
 ```python
